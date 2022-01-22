@@ -21,12 +21,12 @@ React, Redux 학습을 위한 간단한 신발 쇼핑몰 제작.
 
 <details markdown="1">
 <summary>동작화면</summary>
-<img src='https://user-images.githubusercontent.com/63529753/150649349-9355e741-0f20-4bcd-bf77-44ce9c7c3bb3.gif' width=100%' height=100% />
+<img src='https://user-images.githubusercontent.com/63529753/150649349-9355e741-0f20-4bcd-bf77-44ce9c7c3bb3.gif' width=50%' height=50% />
 </details/>
 
 <details markdown="1">
 <summary>동작화면</summary>
-<img src='https://user-images.githubusercontent.com/63529753/150649350-55b022f2-057d-4de5-b9d1-68c65aaa10fa.gif' width=100%' height=100% />
+<img src='https://user-images.githubusercontent.com/63529753/150649350-55b022f2-057d-4de5-b9d1-68c65aaa10fa.gif' width=50%' height=50% />
 </details/>
                        
 <details markdown="1">
