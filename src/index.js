@@ -20,6 +20,7 @@ function reducer2(state = alert초기값, action){
 
 let 초기값 = [
   {id:1, name:'White and Black', quan:1}, 
+  {id:2, name:'Red Knit', quan:1}, 
 ]
 function reducer(state = 초기값, action){
   if (action.type === '항목추가'){
