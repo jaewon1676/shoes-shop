@@ -23,11 +23,6 @@ React, Redux 학습을 위한 간단한 신발 쇼핑몰 제작.
 <br>
 
 ## 주요 키워드
-<details markdown="1">
-<summary>상품주문</summary>
-<img src='https://user-images.githubusercontent.com/63529753/150649349-9355e741-0f20-4bcd-bf77-44ce9c7c3bb3.gif' width=50% height=50% /><br>   
-
-</details/>
 ```
 asd
 ```
@@ -44,24 +39,37 @@ asd
 
 </details/>
                        
+
+---
+Redux
+```
+
+    -- Redux 함수 --
+    let state = useSelector((state) => state)  
+    let dispatch = useDispatch();
+
+    -- 삼항 연산자 --
+    {state.reducer2 === true ?  
+        <div className='my-alert'>
+            <p>장바구니입니다.</p>
+                <button onClick={()=>{dispatch({ type : 'alert닫기'})}}>닫기</button>
+        </div> : null
+    }
+
+
+```
 <details markdown="1">
-<summary>알림창(useState)</summary>
+<summary>상품주문</summary>
+<img src='https://user-images.githubusercontent.com/63529753/150649349-9355e741-0f20-4bcd-bf77-44ce9c7c3bb3.gif' width=50% height=50% /><br>   
+
+</details/>
+
+<details markdown="1">
+<summary>장바구니 알림창</summary>
 <img src='https://user-images.githubusercontent.com/63529753/150649356-25bc0ce4-515b-4eb5-8b87-cf28e358e392.gif' width=50% height=50% /><br>
 
 </details/>
-```
-    let state = useSelector((state) => state) 
-    let dispatch = useDispatch();
 
-            {state.reducer2 === true ?
-        <div className='my-alert'>
-            <p>장바구니입니다.</p>
-            <button onClick={()=>{dispatch({ type : 'alert닫기'})}}>닫기</button>
-        </div> : null
-        }
-
-
-```
                        
                        
 
