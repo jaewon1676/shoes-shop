@@ -3,7 +3,8 @@ React, Redux 학습을 위한 간단한 신발 쇼핑몰 제작.
 <br>
 
 ## 동작화면
--
+![동작 화면](https://user-images.githubusercontent.com/63529753/150649352-1b5d0c50-13d7-4f23-a3fc-76dd80a616e8.gif)
+
 
 ## URL배포
 [Shoes-shop](https://shoes1676-site.netlify.app/)
