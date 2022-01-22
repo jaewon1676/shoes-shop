@@ -22,7 +22,7 @@ React, Redux 학습을 위한 간단한 신발 쇼핑몰 제작.
 <details markdown="1">
 <summary>상품주문</summary>
 <img src='https://user-images.githubusercontent.com/63529753/150649349-9355e741-0f20-4bcd-bf77-44ce9c7c3bb3.gif' width=50%' height=50% />
-</details/>
+<details/>
                        
 <details markdown="1">
 <summary>CSSTransition</summary>
