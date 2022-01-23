@@ -5,7 +5,7 @@ import { useSelector, useDispatch } from 'react-redux'; // react-redux 세팅
 
 function Cart() {
 
-    let state = useSelector((state) => state) // 
+    let state = useSelector((state) => state)  
     let dispatch = useDispatch();
 
     return (<div>
