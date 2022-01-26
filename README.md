@@ -1,5 +1,4 @@
 # Shoes-shop
-React, Redux 학습을 위한 간단한 신발 쇼핑몰 제작.
 <br>
 
 ## URL배포
@@ -8,6 +7,9 @@ React, Redux 학습을 위한 간단한 신발 쇼핑몰 제작.
 <br>
 
 ## 소개
+- React, Rdeux 학습을 위한 간단한 신발 쇼핑몰 제작.
+- bootstrap=을 활용한 화면 구성
+- 메인페이지, 구입페이지, 장바구니 페이지 연결을 위한 라우터 구성,
 - React의 hook, 삼항연산자 학습하여 컴포넌트의 state를 관리 하였다.
 - 상품주문, 수량 이벤트는 Redux(reducer, useDispatch, useSelector)를 학습하여 적용하였다.
 
